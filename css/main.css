@@ -1,0 +1,124 @@
+hr {
+    display: block;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: 1500px;
+    border-style: solid;
+    border-width: 2.5px;
+    border-radius: 5px;
+} 
+   
+h1 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    padding-top: 30px;
+}  
+ 
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.one {
+    position: absolute;
+    opacity: 0.7;
+}
+
+.two {
+    position: absolute;
+    margin-left: 180px;
+    opacity: 0.7;
+}
+
+.three {
+    position: absolute;
+    margin-left: 360px;
+    opacity: 0.7;
+    overflow: auto;
+
+}
+
+.four {
+    margin-top: 175px;
+    position: absolute;
+    opacity: 0.7;
+    
+}
+
+.five {
+    position: absolute;
+    margin-top: 175px;
+    margin-bottom: 500px;
+    margin-left: 175px;
+    opacity: 0.7;
+}
+
+.six {
+    position: absolute;
+    margin-top: 175px;
+    margin-bottom: 500px;
+    margin-left: 360px;
+    opacity: 0.7;
+}
+
+span {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+}
+
+#dia {
+    color: #fff;
+    font-size: 12px;
+    position: absolute;
+    top: 125px;
+    left: 65px;
+}
+
+#jua {
+    color: #fff;
+    font-size: 12px;
+    position: absolute;
+    top: 125px;
+    left: 47px;
+}
+
+#kat {
+    color: #fff;
+    font-size: 12px;
+    position: absolute;
+    float: right;
+    top: 125px;
+    left: 405px;
+    width: 200px;
+
+}
+
+#lor {
+    color: #fff;
+    font-size: 12px;
+    position: absolute;
+    top: 305px;
+    left: 60px;
+    width: 200px;
+}
+
+
+#mil {
+    color: #fff;
+    font-size: 12px;
+    position: absolute;
+    top: 305px;
+    left: 225px;
+    width: 200px;
+}
+
+#yul {
+    color: #fff;
+    font-size: 12px;
+    position: absolute;
+    top: 305px;
+    left: 420px;
+    width: 200px;
+}
+
